@@ -1,5 +1,7 @@
-# COMPSCI 589 Machine Learning - Summer 2025
+# COMPSCI 690L Advanced Topics/Generative AI - Spring 2026
 
 Professor: [Chuang Gan](https://www.cics.umass.edu/people/gan-chuang)
 
-Website: [Github Page](https://compsci589-summer25.github.io/)
+TA: Sunli Chen (sunlichen@umass.edu)
+
+Website: [Github Page](https://compsci690-spring26.github.io/)
